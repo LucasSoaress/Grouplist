@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "149661640313",
+    "firebase_url": "https://group-list-13627.firebaseio.com",
+    "project_id": "group-list-13627",
+    "storage_bucket": "group-list-13627.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149661640313:android:6beab5269b6cc832",
+        "android_client_info": {
+          "package_name": "grouplist.lucassoares.com.grouplist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149661640313-agtk5v5ubghpgpq63qfa9ohg0g149c6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDauglPii38DRjJjbnubzPFzJorByL-2TE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

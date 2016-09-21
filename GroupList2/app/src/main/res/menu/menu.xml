@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="feednave.lucassoares.com.navefeed.MainActivity">
+
+    <item
+        android:id="@+id/action_sobre"
+        android:orderInCategory="100"
+        android:title="Sobre o app"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_sair"
+        android:orderInCategory="100"
+        android:title="Sair"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_compartilhar"
+        android:orderInCategory="100"
+        android:title="Compartilhar"
+        app:showAsAction="never" />
+
+</menu>
